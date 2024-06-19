@@ -24,4 +24,8 @@ Each file contains the content of the respective session, including explanations
 - Definite Articles
 - Partitive Articles
 
+# Session 2
+- faire usage
+- Masculine adjective
+- Femenine adjective
 
