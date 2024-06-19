@@ -19,5 +19,9 @@ Each file contains the content of the respective session, including explanations
 ```markdown
 # Session 1
 
+### Topics Covered
+- Indefinite Articles
+- Definite Articles
+- Partitive Articles
 
 
