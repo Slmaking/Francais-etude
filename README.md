@@ -19,6 +19,7 @@ Each file contains the content of the respective session, including explanations
 ```markdown
 # Session 1
 
+- 1st group Conjugation (er)
 - Indefinite Articles
 - Definite Articles
 - Partitive Articles
@@ -29,3 +30,7 @@ Each file contains the content of the respective session, including explanations
 - Masculine adjective
 - Femenine adjective
 
+# Session 3
+
+- 2nd group Conjugation (ir)
+- negative article and quantitive
