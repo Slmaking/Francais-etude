@@ -7,8 +7,8 @@ This repository documents the learning sessions conducted with the aid of privat
 ## Structure
 
 - [`session-1.md`](https://github.com/Slmaking/Francais-etude/blob/6b6b3cc1806ff47f56e11b6e48b069a112798389/session_one.md)
-- `session-2.md`
-- `session-3.md`
+- [`session-2.md`](https://github.com/Slmaking/Francais-etude/blob/383f0c5458bef3de722341b490303ae5ae3ce71f/session_two.md)
+- [`session-3.md`](https://github.com/Slmaking/Francais-etude/blob/383f0c5458bef3de722341b490303ae5ae3ce71f/session_three.md)
 - ...
 
 Each file contains the content of the respective session, including explanations, code snippets, and exercises.
