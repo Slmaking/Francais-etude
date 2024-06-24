@@ -2,35 +2,43 @@ Lesson Outline:
 Verb Conjugation Practice
 
 Boire (to drink)
+
 je bois
 tu bois
 il boit
 nous buvons
 vous buvez
 ils boivent
+
 Prendre (to take)
+
 je prends
 tu prends
 il prend
 nous prenons
 vous prenez
 ils prennent
+
 Devoir (to have to)
 je dois
 nous devons
 ils doivent
+
 Savoir (to know)
 je sais
 nous savons
 ils savent
+
 Falloir (to be necessary)
 il faut
+
 Example: il faut respecter les règles
 Weather Expressions
 
 Il pleut (It's raining)
 Il fait combien? (What's the temperature?)
 Il fait 25 degrés (It's 25 degrees)
+
 Pronominal Verbs
 
 ### Les Verbes Pronominaux (Pronominal Verbs) in French
