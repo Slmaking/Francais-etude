@@ -1,4 +1,4 @@
-Lesson Outline:
+## Lesson Outline:
 Verb Conjugation Practice
 
 Boire (to drink)
@@ -39,7 +39,7 @@ Il pleut (It's raining)
 Il fait combien? (What's the temperature?)
 Il fait 25 degrés (It's 25 degrees)
 
-Pronominal Verbs
+## Pronominal Verbs
 
 ### Les Verbes Pronominaux (Pronominal Verbs) in French
 
@@ -52,6 +52,8 @@ This category indicates that the subject of the verb is also the object; the act
 - **je réveille ma fille** (I wake up my daughter) vs. **je me réveille** (I wake up)
 - **il lave sa voiture** (He washes his car) vs. **il se lave les mains** (He washes his hands)
 - **nous promenons notre chien** (We walk our dog) vs. **nous nous promenons au parc** (We walk in the park)
+- Lorsque nous nous lançons dans ces discussions, je me fais souvent l'avocat du diable. (Je deviens souvent l'avocat du diable.)
+Ils ont décidé de se faire médecins.
 
 In these examples, the reflexive form shows that the subject is acting upon itself rather than on another object.
 
