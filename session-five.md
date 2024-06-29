@@ -41,4 +41,54 @@ Les pronoms toniques sont utilisés pour mettre l'accent sur une personne ou une
 
 ---
 
-Cette leçon utilise des commentaires pour illustrer l'utilisation et le contexte des adjectifs démonstratifs, des adjectifs possessifs, et des pronoms toniques en français.
+Certainly! Here's a lesson incorporating the usage of prepositions (à, au, aux, en) with specific examples:
+
+---
+
+### Lesson on Prepositions (à, au, aux, en) in French
+
+#### 1. à, au, à la, à l', aux
+
+**à** is a preposition meaning "to" or "at". It combines with definite articles to form:
+
+- **au** (à + le): to/at the (masculine singular)
+  - Ex: Nous allons **au** café. (We are going to the café.)
+
+- **à la**: to/at the (feminine singular)
+  - Ex: Je vais **à la** banque. (I am going to the bank.)
+
+- **à l'** (before a vowel or silent 'h'): to/at the (before a vowel or silent 'h')
+  - Ex: Tu vas **à l'**hôtel. (You are going to the hotel.)
+
+- **aux**: to/at the (plural)
+  - Ex: On va **aux** toilettes. (We are going to the restroom.)
+
+#### 2. en
+
+**en** is used to indicate going to a country or region:
+
+- **en**: to/in (used for feminine countries and regions)
+  - Ex: Nous allons **en** France. (We are going to France.)
+
+#### Examples:
+
+1. **à Paris**: Il voyage **à Paris**. (He travels to Paris.)
+2. **au Canada**: Elle va **au Canada**. (She is going to Canada.)
+3. **en Espagne**: Tu vis **en Espagne**. (You live in Spain.)
+4. **en Iran**: Tu vis **en Iran**. (You live in Iran.)
+5. **aux États-Unis**: Tu vas **aux États-Unis**. (You are going to the United States.)
+
+#### Practice:
+
+- Où vas-tu pour acheter du pain?  
+  **Réponse**: On va **à la boulangerie** pour acheter du pain.
+
+- Comment parler à Jean et ses amis?  
+  **Réponse**: Je parle **aux amis de Jean**.
+
+- Où vas-tu pendant le week-end?  
+  **Réponse**: Nous faisons quoi **pendant le week-end**?
+
+---
+
+This lesson provides a structured explanation of how to use the prepositions **à, au, à la, à l', aux**, and **en** in French with practical examples to reinforce understanding.
