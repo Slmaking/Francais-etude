@@ -13,16 +13,56 @@ Les adjectifs démonstratifs permettent de pointer ou de distinguer des élémen
 
 ## 2. Les Adjectifs Possessifs
 
-Les adjectifs possessifs indiquent la possession ou l'appartenance à quelqu'un ou quelque chose. Ils varient en genre et en nombre selon le possesseur et l'objet possédé.
 
-- **Mon, ton, son, notre, votre, leur**
-  - Exemples :
-    - *Mon* école est à côté du parc. <!-- Mon école est près de chez moi. -->
-    - *Ton* université offre de nombreux programmes. <!-- Ton université est renommée. -->
-    - *Son* entreprise est leader dans son domaine. <!-- Son entreprise est bien établie. -->
-    - *Notre* projet avance bien. <!-- Notre projet est ambitieux. -->
-    - *Votre* présentation était très claire. <!-- Votre présentation était instructive. -->
-    - *Leur* maison est grande et lumineuse. <!-- Leur maison est à la campagne. -->
+Les adjectifs possessifs indiquent la possession ou l'appartenance à quelqu'un ou quelque chose. Ils varient en genre (masculin/féminin) et en nombre (singulier/pluriel) selon le possesseur et l'objet possédé.
+
+#### Masculin Singulier:
+- **Mon** école est à côté du parc.
+  - *My school is next to the park.*
+- **Ton** université offre de nombreux programmes.
+  - *Your university offers many programs.*
+- **Son** entreprise est leader dans son domaine.
+  - *His/Her/Its company is a leader in its field.*
+
+#### Féminin Singulier:
+- **Ma** voiture est neuve.
+  - *My car is new.*
+- **Ta** maison est grande.
+  - *Your house is big.*
+- **Sa** sœur est médecin.
+  - *His/Her/Its sister is a doctor.*
+
+#### Pluriel (Masculin et Féminin):
+- **Notre** projet avance bien.
+  - *Our project is progressing well.*
+- **Votre** présentation était très claire.
+  - *Your presentation was very clear.*
+- **Leur** maison est grande et lumineuse.
+  - *Their house is big and bright.*
+- **Leurs** voitures sont rapides.
+  - *Their cars are fast.*
+
+#### Exemples:
+
+- **Mes** livres sont sur la table.
+  - *My books are on the table.*
+- **Tes** amis arrivent demain.
+  - *Your friends are arriving tomorrow.*
+- **Ses** enfants sont à l'école.
+  - *His/Her/Its children are at school.*
+- **Nos** vacances commencent bientôt.
+  - *Our holidays are starting soon.*
+- **Vos** idées sont intéressantes.
+  - *Your ideas are interesting.*
+- **Leurs** projets sont ambitieux.
+  - *Their projects are ambitious.*
+
+### Résumé:
+
+Les adjectifs possessifs s'accordent en genre et en nombre avec le possesseur et l'objet possédé :
+- **Masculin Singulier**: mon, ton, son
+- **Féminin Singulier**: ma, ta, sa
+- **Pluriel (Masculin et Féminin)**: notre, votre, leur
 
 ## 3. Les Pronoms Toniques
 
@@ -38,12 +78,6 @@ Les pronoms toniques sont utilisés pour mettre l'accent sur une personne ou une
     - *Vous*, vous avez bien travaillé cette semaine. <!-- Vous, vous êtes très efficaces. -->
     - *Eux*, ils sont en train de déménager. <!-- Eux, ils cherchent une nouvelle maison. -->
     - *Elles*, elles étudient à l'université. <!-- Elles, elles sont brillantes. -->
-
----
-
-Certainly! Here's a lesson incorporating the usage of prepositions (à, au, aux, en) with specific examples:
-
----
 
 ### Lesson on Prepositions (à, au, aux, en) in French
 
