@@ -23,7 +23,10 @@ Les adjectifs possessifs indiquent la possession ou l'appartenance à quelqu'un 
   - *Your university offers many programs.*
 - **Son** entreprise est leader dans son domaine.
   - *His/Her/Its company is a leader in its field.*
-
+- **Notre** projet avance bien.
+  - *Our project is progressing well.*
+- **Votre** présentation était très claire.
+  - *Your presentation was very clear.*
 #### Féminin Singulier:
 - **Ma** voiture est neuve.
   - *My car is new.*
@@ -33,9 +36,9 @@ Les adjectifs possessifs indiquent la possession ou l'appartenance à quelqu'un 
   - *His/Her/Its sister is a doctor.*
 
 #### Pluriel (Masculin et Féminin):
-- **Notre** projet avance bien.
+- **Nos** projets avance bien.
   - *Our project is progressing well.*
-- **Votre** présentation était très claire.
+- **Vos** présentations était très claire.
   - *Your presentation was very clear.*
 - **Leur** maison est grande et lumineuse.
   - *Their house is big and bright.*
