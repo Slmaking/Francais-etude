@@ -123,5 +123,15 @@ These verbs are essential in French as they are commonly used and often irregula
 
 - **Les enfants font leurs devoirs** (The children do their homework)
 - **Ils font** (They do)
+
+  
+**permettre à quelqu'un de + infinitif**
+
+- j'ai permis à mon amie d'utiliser mon portable  
+
+**promettre à quelqu'un de + infinitif**
+
+- j'ai promis à mon patron de finir le projet 
+
   
 This lesson covers a range of useful French vocabulary, verb conjugations, negation forms, expressions of time, and grammar points. Practice these to improve your understanding and fluency in French!
