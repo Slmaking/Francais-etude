@@ -134,4 +134,19 @@ These verbs are essential in French as they are commonly used and often irregula
 - j'ai promis à mon patron de finir le projet 
 
   
-This lesson covers a range of useful French vocabulary, verb conjugations, negation forms, expressions of time, and grammar points. Practice these to improve your understanding and fluency in French!
+
+| Termination | Types of Verbs                                    | Examples                                    |
+|-------------|---------------------------------------------------|---------------------------------------------|
+| -é          | 1st group (verbs ending in -er), "être", "aller"  | Gagner: J'ai gagné, tu as gagné...           |
+|             |                                                   | Aller: Je suis allé(e), tu es allé(e)...     |
+|             |                                                   | Être: J'ai été, tu as été...                 |
+| -i          | 2nd group (verbs ending in -ir)                   | Réussir: J'ai réussi, tu as réussi...        |
+| -is         | Verbs ending in -ettre, 3rd group                 | Mettre: J'ai mis, tu as mis...               |
+|             |                                                   | Comprendre: J'ai compris, tu as compris...   |
+|             |                                                   | Surprendre: J'ai surpris, tu as surpris...   |
+| -it         | Verbs ending in -re (except 'lire')               | Produire: J'ai produit, tu as produit...     |
+|             |                                                   | Dire: Il a dit, elle a dit...                |
+| -u          | Verbs ending in -oir, 3rd group                   | Voir: J'ai vu, tu as vu...                   |
+|             |                                                   | Pouvoir: Il a pu, elle a pu...               |
+|             |                                                   | Soutenir: Elle a soutenu, il a soutenu...    |
+
