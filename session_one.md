@@ -33,7 +33,7 @@ Some verbs, such as **aimer, adorer, préférer, and détester**, are often foll
 
 - **Il aime le fromage.** (He likes cheese.)
 - **Il n'aime pas le fromage.** (He doesn't like cheese.)
-- **Vous préférez.** (You prefer.)
+- **Vous préférez.** le café (You prefer.)
 - **Je préfère.** (I prefer.)
 
 ---
