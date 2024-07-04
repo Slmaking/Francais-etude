@@ -27,7 +27,7 @@ Definite articles specify a particular noun that is known to the speaker and lis
 
 ### **III. Verbs with Definite Articles**
 
-Some verbs, such as aimer, adorer, préférer, and détester, are often followed by definite articles.
+Some verbs, such as **aimer, adorer, préférer, and détester**, are often followed by definite articles.
 
 **Examples:**
 
