@@ -115,7 +115,12 @@
 8. **Le cinéma / le théâtre**
    - Le cinéma est aussi bon que le théâtre.
 
-#### Adverbes
+#### Adverbes 
+
+- plus + bon/bonne = meilleur(es) que
+- plus bien = mieux que 
+
+
 
 1. **Conduire rapidement**
    - Je conduis aussi rapidement que mon amie.
