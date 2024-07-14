@@ -108,5 +108,4 @@ La campagne est plus posée et offre autant de beauté naturelle que de tranquil
 Le centre-ville a plus de pollution, mais il offre aussi plus d'opportunités de travail. En ville, on peut s'amuser plus facilement grâce à la diversité des divertissements.
  On y trouve également plus d'activités culturelles comme les musées et les théâtres. À Les activités en plein air, comme la randonnée et le jardinage, sont plus accessibles.
 De plus, la campagne permet de faire des progrès personnels en adoptant un rythme de vie plus serein. En somme, chaque environnement a ses avantages et inconvénients, et le choix dépend de vos préférences de vie.
-![image](https://github.com/user-attachments/assets/ef25fe0d-bc66-4191-9457-c95bd7c289cc)
 
