@@ -101,3 +101,7 @@
 - **Appeler** : Il va appeler son ami demain.
 - **Se reposer** : Nous allons nous reposer la semaine prochaine.
 
+**Example**
+
+Le centre-ville est souvent plus animé que la campagne. Il y a plus de facilités comme les magasins, les restaurants et les cinémas en ville qu'à la campagne. En revanche, la campagne est plus calme que le centre-ville. On y trouve autant de beauté naturelle que de tranquillité, offrant un environnement paisible. En termes de pollution, le centre-ville en a généralement plus que la campagne. Les opportunités de travail sont souvent plus nombreuses en ville, mais la campagne offre autant de possibilités de se détendre et de profiter de la nature. On peut s'amuser plus facilement en ville grâce à la diversité des divertissements, mais on peut s'ennuyer moins à la campagne grâce à la tranquillité et la beauté du paysage. En conclusion, chacun de ces environnements a ses propres atouts et défis, et le choix dépend de ce que l'on recherche pour son mode de vie.
+
