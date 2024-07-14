@@ -103,5 +103,10 @@
 
 **Example**
 
-Le centre-ville est souvent plus animé que la campagne. Il y a plus de facilités comme les magasins, les restaurants et les cinémas en ville qu'à la campagne. En revanche, la campagne est plus calme que le centre-ville. On y trouve autant de beauté naturelle que de tranquillité, offrant un environnement paisible. En termes de pollution, le centre-ville en a généralement plus que la campagne. Les opportunités de travail sont souvent plus nombreuses en ville, mais la campagne offre autant de possibilités de se détendre et de profiter de la nature. On peut s'amuser plus facilement en ville grâce à la diversité des divertissements, mais on peut s'ennuyer moins à la campagne grâce à la tranquillité et la beauté du paysage. En conclusion, chacun de ces environnements a ses propres atouts et défis, et le choix dépend de ce que l'on recherche pour son mode de vie.
+Le centre-ville est souvent plus animé que la campagne. Il y a plus de facilités comme les magasins, les restaurants et les cinémas en ville qu'à la campagne. Au contraire, la campagne est plus calme que le centre-ville. 
+La campagne est plus posée et offre autant de beauté naturelle que de tranquillité. À la campagne, on peut s'ennuyer moins en profitant de la nature et de la tranquillité.
+Le centre-ville a plus de pollution, mais il offre aussi plus d'opportunités de travail. En ville, on peut s'amuser plus facilement grâce à la diversité des divertissements.
+ On y trouve également plus d'activités culturelles comme les musées et les théâtres. À Les activités en plein air, comme la randonnée et le jardinage, sont plus accessibles.
+De plus, la campagne permet de faire des progrès personnels en adoptant un rythme de vie plus serein. En somme, chaque environnement a ses avantages et inconvénients, et le choix dépend de vos préférences de vie.
+![image](https://github.com/user-attachments/assets/ef25fe0d-bc66-4191-9457-c95bd7c289cc)
 
