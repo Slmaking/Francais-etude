@@ -95,6 +95,13 @@ Ces verbes ont des radicaux irréguliers au futur simple.
 - **Venir** : je viendrai, tu viendras, il/elle/on viendra, nous viendrons, vous viendrez, ils/elles viendront
 - **Recevoir** : je recevrai, tu recevras, il/elle/on recevra, nous recevrons, vous recevrez, ils/elles recevront
 - **Envoyer** : j'enverrai, tu enverras, il/elle/on enverra, nous enverrons, vous enverrez, ils/elles enverront
+  
+
+**falloir:   il faudra**
+
+**pleuvoir:  il pleuvra** 
+
+
 
 ### Importance de la Prononciation
 
