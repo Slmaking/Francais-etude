@@ -142,4 +142,12 @@ Le futur proche est formé avec le verbe "aller" au présent suivi de l'infiniti
 - Dans 10 ans, je parlerai bien français.
 - Dans 10 ans, je vivrai au Canada.
 
-Ces explications et exemples devraient vous aider à bien comprendre et utiliser le futur simple en français. 
+
+## Par Example
+
+
+Dans dix ans, j'aurai acheté une maison à Montréal en face de la rivière. Je serai marié et j'aurai deux enfants. J'aurai obtenu mon passeport canadien et commencé mon entreprise. Professionnellement, j'aurai progressé dans ma carrière, peut-être en dirigeant des projets innovants en data science ou intelligence artificielle, contribuant à des solutions durables pour des problèmes globaux.
+
+Dans cinq ans, j'adorerai travailler dans le domaine de la finance, où je pourrai appliquer mes compétences en analyse de données et en modélisation financière. Sur le plan personnel, ma famille sera épanouie et nous profiterons d'une bonne qualité de vie. Je continuerai à explorer de nouvelles passions et cultures. Je serai actif dans ma communauté, peut-être en enseignant ou en mentorant des jeunes professionnels.
+
+Enfin, je maintiendrai un équilibre entre travail et vie personnelle, consacrant du temps à ma famille, mes amis et mes intérêts personnels tout en poursuivant mes ambitions professionnelles.
