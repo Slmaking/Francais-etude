@@ -142,3 +142,29 @@ En négatif, "en" se place toujours après "ne" et avant le verbe conjugué.
 ### Conclusion
 
 Le pronom "en" est très pratique en français pour éviter la répétition et rendre les phrases plus fluides. Il remplace des expressions introduites par "de" et se place généralement avant le verbe ou l'auxiliaire. En pratiquant ces structures, vous serez capable d'utiliser "en" naturellement dans vos conversations en français.
+
+
+**Par Example**  
+
+Si je suis riche, j'achèterai une île dans l'océan Pacifique.
+
+1. Si je suis riche, je construirai une maison de rêve.
+2. Si je suis riche, je voyagerai autour du monde.
+3. Si je suis riche, j'ouvrirai un restaurant gastronomique.
+4. Si je suis riche, je créerai une entreprise innovante.
+5. Si je suis riche, je financerai des projets de recherche médicale.
+6. Si je suis riche, je construirai des écoles dans les pays en développement.
+7. Si je suis riche, j'achèterai une collection d'art.
+8. Si je suis riche, je ferai des dons à des œuvres caritatives.
+9. Si je suis riche, je construirai un refuge pour animaux.
+10. Si je suis riche, j'achèterai une villa en bord de mer.
+11. Si je suis riche, je financerai des bourses d'études.
+12. Si je suis riche, je construirai un parc d'attractions.
+13. Si je suis riche, j'achèterai une ferme écologique.
+14. Si je suis riche, je créerai une fondation pour l'éducation.
+15. Si je suis riche, je voyagerai dans l'espace.
+16. Si je suis riche, je construirai des hôpitaux dans les régions rurales.
+17. Si je suis riche, j'investirai dans les énergies renouvelables.
+18. Si je suis riche, j'achèterai une flotte de voitures de luxe.
+19. Si je suis riche, je financerai des projets artistiques.
+20. Si je suis riche, je construirai des logements pour les sans-abri.
