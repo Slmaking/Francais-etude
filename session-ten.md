@@ -143,6 +143,10 @@ Le futur proche est formé avec le verbe "aller" au présent suivi de l'infiniti
 - Dans 10 ans, je vivrai au Canada.
 
 
+- Si je vais à Toulouse, je serai plus tranquille, mes parents ne seront plus
+toujours derrière moi.
+
+
 ## Par Example
 
 
