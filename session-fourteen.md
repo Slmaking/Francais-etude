@@ -2,49 +2,49 @@
 
 #### Comparaisons avec l'Imparfait
 
-L'imparfait est souvent utilisé pour faire des comparaisons entre le passé et le présent. Voici quelques exemples :
+L'imparfait est souvent utilisé pour faire des comparaisons entre différentes périodes du passé. Voici quelques exemples :
 
 1. **La vie était moins simple que maintenant.**
-   - La vie à l'époque actuelle est plus complexe.
-   
+   - La vie était plus compliquée autrefois.
+
 2. **Les gens étaient plus gentils que maintenant.**
-   - Aujourd'hui, les gens sont peut-être moins aimables qu'avant.
+   - Les gens étaient plus aimables à l'époque.
 
 3. **La communication était plus difficile que maintenant.**
-   - De nos jours, la communication est plus facile grâce à la technologie.
+   - La communication était moins facile autrefois.
 
 4. **Les femmes travaillaient moins que les hommes.**
-   - À l'époque actuelle, les femmes travaillent autant que les hommes.
+   - Les femmes avaient moins de travail que les hommes.
 
 5. **C'était seulement les hommes qui travaillaient et gagnaient plus d'argent.**
-   - Maintenant, les femmes et les hommes travaillent et gagnent de l'argent.
+   - Les hommes avaient plus de responsabilités professionnelles et gagnaient plus.
 
 6. **La technologie était moins développée que maintenant.**
-   - La technologie est beaucoup plus avancée de nos jours.
+   - La technologie était moins avancée autrefois.
 
 7. **C'était plus difficile de voyager.**
-   - Voyager est devenu plus facile grâce aux avancées dans les transports.
+   - Voyager était plus compliqué.
 
 8. **Voyager en avion était plus cher.**
-   - Maintenant, voyager en avion est plus abordable.
+   - Les voyages en avion étaient plus coûteux.
 
 9. **Il n'y avait pas beaucoup de progrès en médecine.**
-   - Aujourd'hui, les progrès en médecine sont impressionnants.
+   - Les avancées médicales étaient limitées.
 
 #### Exemples de Comparaisons avec l'Imparfait et le Passé Composé
 
 Les verbes au passé composé décrivent des actions terminées, tandis que l'imparfait est utilisé pour décrire des actions habituelles, des états ou des conditions passées.
 
 1. **La vie avant :**
-   - **Imparfait :** La vie était moins simple que maintenant.
+   - **Imparfait :** La vie était moins simple.
    - **Passé composé :** Hier, j'ai vécu une journée très simple.
 
 2. **Les gens :**
-   - **Imparfait :** Les gens étaient plus gentils que maintenant.
+   - **Imparfait :** Les gens étaient plus gentils.
    - **Passé composé :** La semaine dernière, j'ai rencontré des gens très gentils.
 
 3. **La communication :**
-   - **Imparfait :** La communication était plus difficile que maintenant.
+   - **Imparfait :** La communication était plus difficile.
    - **Passé composé :** Il y a deux jours, j'ai eu des difficultés à communiquer.
 
 4. **Les femmes et les hommes :**
@@ -52,7 +52,7 @@ Les verbes au passé composé décrivent des actions terminées, tandis que l'im
    - **Passé composé :** Avant, c'était seulement les hommes qui travaillaient et gagnaient plus d'argent.
 
 5. **La technologie :**
-   - **Imparfait :** La technologie était moins développée que maintenant.
+   - **Imparfait :** La technologie était moins développée.
    - **Passé composé :** L'année dernière, j'ai acheté un nouvel appareil technologique très avancé.
 
 6. **Le transport :**
@@ -73,3 +73,5 @@ Pour mieux comprendre l'utilisation du passé composé et de l'imparfait, voici 
 - **Passé composé :** Actions ponctuelles, événements spécifiques (j'ai trouvé, je l'ai ramené, je l'ai soigné, il est devenu).
 
 Ces exemples montrent comment l'imparfait est utilisé pour décrire des situations continues ou répétitives dans le passé, tandis que le passé composé décrit des actions spécifiques et terminées.
+
+
