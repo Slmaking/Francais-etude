@@ -205,4 +205,19 @@ Le passé composé est formé avec l'auxiliaire "être" ou "avoir" au présent e
 - **Passé Composé** : Hier, j'ai joué au tennis.
   - Ici, on parle d'une action spécifique et terminée.
 
-Cette leçon vous aidera à comprendre les différences fondamentales entre l'imparfait et le passé composé et à les utiliser correctement dans vos phrases.
+**Example**
+
+
+Quand j'avais 10 ans, ma famille et moi voyagions à Ahvaz. Nous restions là-bas pendant deux semaines. Il faisait beau, et cet endroit était magnifique au printemps. Ensuite, nous faisions du camping à Bushehr. Il pleuvait tout le temps. Je regardais l'arc-en-ciel. C'était un moment superbe dont je me souvenais, et j'étais honoré.
+
+Ensuite, nous visitions Chogha Zanbil, un site historique et important au niveau mondial. Cet endroit était un paysage qui attirait de nombreux touristes. Après notre visite à Chogha Zanbil, nous décidions de passer quelques jours à Shiraz. Cette ville était célèbre pour ses jardins magnifiques et ses monuments historiques. Nous visitions le jardin Eram et le mausolée de Hafez. Les fleurs étaient en pleine floraison, et l'atmosphère était paisible et sereine. Je prenais de nombreuses photos pour me souvenir de ces moments précieux.
+Nous choisissions notre dernier endroit à visiter. Ensuite, nous faisions un détour par Persépolis, l'ancienne capitale de l'empire achéménide. Les ruines imposantes et les sculptures détaillées racontaient l'histoire d'une époque glorieuse. J'étais émerveillé par la grandeur et la beauté de ce site.
+
+
+
+
+
+
+
+
+
