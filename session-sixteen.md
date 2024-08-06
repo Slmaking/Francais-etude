@@ -126,4 +126,92 @@ Certains verbes ont des formes irrégulières au conditionnel présent.
    - S'il fait beau demain, on ira au parc.
    - Si je suis riche, je ferai le tour du monde.
 
-En résumé, le conditionnel présent est un outil grammatical essentiel pour exprimer des actions hypothétiques, des souhaits, des demandes polies et des conseils. En maîtrisant ce temps, vous pouvez enrichir vos compétences en communication et rendre vos interactions plus nuancées et respectueuses.
+***
+
+
+The French verbs "pouvoir," "devoir," and "vouloir" are essential in expressing ability, necessity, and desire, respectively. Each verb plays a unique role in constructing meaningful sentences.
+
+"Pouvoir" indicates the ability or permission to do something. For example, one might say, "Je peux venir demain," meaning "I can come tomorrow." This verb helps communicate what is possible for the speaker or others.
+
+In contrast, "devoir" is used to express obligation or necessity. For instance, the sentence "Je dois finir mes devoirs" translates to "I must finish my homework." This verb is crucial when discussing responsibilities or requirements.
+
+Lastly, "vouloir" conveys desire or intention. An example would be "Je veux apprendre le français," which means "I want to learn French." This verb is essential for expressing wishes or plans.
+
+Understanding the distinct uses of these verbs allows for precise communication of capability, obligation, and desire in various contexts.
+
+For expressing "forecast" in French, the best choice among "pouvoir," "devoir," and "vouloir" is neither of these three, as none of them directly means "forecast." Instead, the verb "prévoir" is the appropriate verb to use for "forecast."
+
+Here is how you might use "prévoir" in different contexts:
+
+1. **Present Tense:**  
+   "Ils prévoient une augmentation des ventes."  
+   (They forecast an increase in sales.)
+
+2. **Past Tense:**  
+   "Nous avons prévu de la pluie pour aujourd'hui."  
+   (We forecasted rain for today.)
+
+3. **Future Tense:**  
+   "Je prévois que le marché va croître."  
+   (I forecast that the market will grow.)
+
+In the conditional present tense, "prévoir" is conjugated to express a forecast in a hypothetical or polite context. Here is how "prévoir" is conjugated in the conditional present tense:
+
+- Je prévoirais
+- Tu prévoirais
+- Il/Elle/On prévoirait
+- Nous prévoirions
+- Vous prévoiriez
+- Ils/Elles prévoiraient
+
+Examples:
+
+1. **Je prévoirais** une augmentation des ventes si nous lancions cette campagne.  
+   (I would forecast an increase in sales if we launched this campaign.)
+
+2. **Tu prévoirais** des difficultés financières dans ce scénario.  
+   (You would forecast financial difficulties in this scenario.)
+
+3. **Il prévoirait** une baisse de la demande en cas de crise économique.  
+   (He would forecast a decrease in demand in the event of an economic crisis.)
+
+4. **Nous prévoirions** une amélioration des conditions météorologiques demain.  
+   (We would forecast an improvement in weather conditions tomorrow.)
+
+5. **Vous prévoiriez** des retards si vous preniez cette route.  
+   (You would forecast delays if you took this route.)
+
+6. **Ils prévoiraient** une croissance rapide avec cette stratégie.  
+   (They would forecast rapid growth with this strategy.)
+
+
+
+1. **Elle pèserait les paquets.**  
+   (She would weigh the packages.)
+
+2. **Vous emmèneriez petit Paul au parc.**  
+   (You would take little Paul to the park.)
+
+3. **Ils enlèveront les décorations.**  
+   (They will remove the decorations.)
+
+4. **Tu soulèverais la nappe.**  
+   (You would lift the tablecloth.)
+
+5. **J'enlèverais la poussière.**  
+   (I would remove the dust.)
+
+6. **Il décongèlerait la viande.**  
+   (He would defrost the meat.)
+
+7. **Elles se lèveraient tard.**  
+   (They would get up late.)
+
+8. **Vous achèveriez votre travail.**  
+   (You would finish your work.)
+
+9. **Nous pèlerions les pommes de terre.**  
+   (We would peel the potatoes.)
+
+10. **Ils amèneraient des amis.**  
+   (They would bring some friends.)
