@@ -34,3 +34,27 @@ Each file contains the content of the respective session, including explanations
 
 - 2nd group Conjugation (ir)
 - negative article and quantitive
+# Session 4
+
+- Pronominal Verbs
+
+# Session 5
+
+- Adjectifs Démonstratifs,
+- Adjectifs Possessifs,
+- Pronoms Toniques
+
+# Session 6
+
+- Passe compose 3rd group (irregulier)
+
+# Sesssion 7
+
+- Le Passé Composé avec Être
+
+
+
+# Session 16
+
+-Le Conditionnel Présent
+
