@@ -46,7 +46,7 @@ Each file contains the content of the respective session, including explanations
 
 # Session 6
 
-- Passe compose 3rd group (irregulier)
+- Passe compose 3rd group (iregulier)
 
 # Sesssion 7
 
