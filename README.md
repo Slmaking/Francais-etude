@@ -14,7 +14,7 @@ This repository documents the learning sessions conducted with the aid of privat
 Each file contains the content of the respective session, including explanations, code snippets, and exercises.
 
 
-### session-1.md
+### Session Description
 
 ```markdown
 # Session 1
