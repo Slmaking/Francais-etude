@@ -52,6 +52,18 @@ Each file contains the content of the respective session, including explanations
 
 - Le Passé Composé avec Être
 
+# Session 8
+
+- Passé Composé avec Avoir et Être
+
+# Session 9
+
+- Comparison (plus, moins, autant et Aussi)
+- Futur Proche
+
+# Session 10
+
+- Futur simple
 
 
 # Session 16
