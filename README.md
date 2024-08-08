@@ -65,6 +65,27 @@ Each file contains the content of the respective session, including explanations
 
 - Futur simple
 
+# Session 11
+
+- Utilisation du pronom "en"
+- Conditionnel avec "si + présent 
+
+# Session 12
+
+- le Pronom "En" et Utilisation "De" 
+
+# Session 13
+
+- L'Imparfait et le Passé Composé
+
+# Session 14
+
+- les Comparaisons avec l'Imparfait
+- l'Utilisation du Passé Composé et de l'Imparfait
+
+# Session 15
+
+- le Pronom "Y"
 
 # Session 16
 
