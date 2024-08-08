@@ -91,3 +91,7 @@ Each file contains the content of the respective session, including explanations
 
 -Le Conditionnel Présent
 
+# Session 17
+
+- Direct Object Pronouns (COD) 
+
