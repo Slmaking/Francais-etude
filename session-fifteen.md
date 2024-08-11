@@ -4,7 +4,7 @@
 
 Le pronom "Y" est utilisé en français pour remplacer :
 1. **Un lieu** introduit par des prépositions comme "à," "dans," "en," "sur," etc.
-2. **Une chose** ou une idée introduite par la préposition "à."
+2. **Une chose** ou une idée introduite par la préposition "à." (à quelque chose)
 
 #### Partie 1 : Utilisation de "Y" pour les Lieux
 
