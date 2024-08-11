@@ -95,3 +95,8 @@ Each file contains the content of the respective session, including explanations
 
 - Direct Object Pronouns (COD) 
 
+# Session 18
+
+- Direct Object Pronouns (COD) 
+- Indirect Object Pronouns (COI) 
+
