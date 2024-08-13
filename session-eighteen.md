@@ -79,3 +79,31 @@ Sometimes, a sentence can have both a COD and a COI. When this happens, the COD 
   - Example: *Je le lui donne.* (I give it to him/her.)
 
 Understanding the difference between COD and COI, and knowing how to replace them with pronouns, is crucial for constructing correct and fluent sentences in French.
+
+Here’s an expanded explanation in a table format that delves deeper into the types of objects in French sentences:
+
+| **Example Sentence**                            | **Type of Object**       | **Object**            | **Construction**                                                                                                                                                                                                                                   | **Additional Details**                                                                                                                                                                    |
+|-------------------------------------------------|--------------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Le chien ronge l'os.*                          | Direct Object (COD)      | l'os                  | Constructed directly, without a preposition. The COD directly receives the action of the verb.                                                                                                                                                    | The direct object is essential to the sentence’s meaning and typically answers the question "What?" or "Whom?" in relation to the verb. In this example, "What does the dog gnaw?" Answer: "the bone." |
+| *La mère pense à son fils.*                     | Indirect Object (COI)    | à son fils            | Constructed indirectly, using a preposition (usually "à" or "de"). The COI often represents a person or thing that indirectly receives the action of the verb.                                                                                     | The indirect object is also crucial for completing the meaning of the verb and typically answers the question "To whom?" or "For whom?" the action is done. In this example, "Whom does the mother think about?" Answer: "her son." |
+| *Je prête l'aspirateur à la voisine.*           | Second Object (COS)      | à la voisine          | Introduced by a preposition (like "à" or "de") and always accompanies another object (COD or COI). It represents a secondary recipient of the action.                                                                                              | The second object, or COS, usually follows a COD and answers the question "To whom?" or "For whom?" in relation to the COD. In this example, "To whom do I lend the vacuum cleaner?" Answer: "the neighbor." |
+
+### Key Points:
+1. **Direct Object (COD):**
+   - No preposition is needed.
+   - Answers the questions "What?" or "Whom?" directly related to the verb.
+   - Example: *Le chien ronge l'os.* ("What does the dog gnaw?" → "l'os")
+
+2. **Indirect Object (COI):**
+   - Requires a preposition ("à" or "de").
+   - Answers the questions "To whom?" or "For whom?" indirectly related to the verb.
+   - Example: *La mère pense à son fils.* ("Whom does the mother think about?" → "à son fils")
+
+3. **Second Object (COS):**
+   - Accompanies another object (either COD or COI) and is introduced by a preposition.
+   - The COS typically represents a secondary recipient and answers "To whom?" or "For whom?" the first object is given or done.
+   - Example: *Je prête l'aspirateur à la voisine.* ("To whom do I lend the vacuum cleaner?" → "à la voisine")
+
+### Additional Considerations:
+- When the object is a pronoun, it often moves to the left of the verb, as in "Je lui parle" (I talk to him/her), where "lui" replaces "à la voisine."
+- Understanding these distinctions is crucial for proper sentence structure and conveying the correct meaning in French.
