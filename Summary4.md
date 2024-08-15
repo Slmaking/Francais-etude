@@ -52,5 +52,8 @@ COI refers to the indirect object of the verb, which receives the action indirec
 - **"en"** is used to replace phrases that begin with "de" or indicate quantity.
 - **COD** pronouns replace direct objects, answering "what?" or "whom?" in the sentence.
 - **COI** pronouns replace indirect objects, answering "to whom?" or "for whom?" in the sentence.
-- **Tonique** pronouns (also called "stress pronouns" or "disjunctive pronouns") are used to emphasize the subject or object or after prepositions. They can also be used in sentences without a verb or to emphasize contrast.
+- **Tonique** pronouns (also called "stress pronouns" or "disjunctive pronouns") are used to emphasize the subject or object or after prepositions. They can also be used in sentences without a verb or to emphasize contrast. penser à qqn = tonique 
+
+
+
 
