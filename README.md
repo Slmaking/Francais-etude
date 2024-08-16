@@ -97,6 +97,9 @@ Each file contains the content of the respective session, including explanations
 
 # Session 18
 
-- Direct Object Pronouns (COD) 
-- Indirect Object Pronouns (COI) 
+- Direct Object Pronouns (COD)
+
+# Session 19
+
+- Indirect Object Pronouns (COI) + passe composé
 
