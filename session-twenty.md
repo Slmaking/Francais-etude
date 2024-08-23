@@ -1,5 +1,76 @@
 ### French Grammar Lesson: Pronouns and Verb Forms
 
+In the **passé composé**, when a **COD** (Complément d'Objet Direct) precedes the verb, the past participle must agree in gender and number with the COD. Here’s how it works, especially focusing on feminine and plural forms:
+
+### Agreement Rules in the Passé Composé
+
+1. **Basic Structure**:
+   - Subject + COD + Auxiliary Verb (avoir or être) + Past Participle
+
+2. **When to Agree**:
+   - The past participle agrees with the COD **only if** the COD precedes the auxiliary verb. If the COD comes after the verb, no agreement is needed.
+
+### Feminine Agreement
+
+When the COD is feminine, the past participle takes an **-e**.
+
+- **Example:**
+  - *J'ai acheté la robe.* (I bought the dress.)
+    - **COD:** *la robe* (feminine, singular)
+    - With COD before the verb: *La robe que j'ai achetée.*
+    - Here, *achetée* takes an **-e** to agree with *la robe*.
+
+- **Another Example:**
+  - *Il a vue la voiture.* (He saw the car.)
+    - **COD:** *la voiture* (feminine, singular)
+    - With COD before the verb: *La voiture qu'il a vue.*
+    - *Vue* adds an **-e** because *la voiture* is feminine.
+
+### Plural Agreement
+
+When the COD is plural, the past participle takes an **-s** (and **-es** if the COD is both feminine and plural).
+
+- **Example:**
+  - *Ils ont vu les films.* (They saw the movies.)
+    - **COD:** *les films* (masculine, plural)
+    - With COD before the verb: *Les films qu'ils ont vus.*
+    - *Vus* adds an **-s** to agree with *les films*.
+
+- **Another Example:**
+  - *Elles ont mangé les pommes.* (They ate the apples.)
+    - **COD:** *les pommes* (feminine, plural)
+    - With COD before the verb: *Les pommes qu'elles ont mangées.*
+    - *Mangées* adds **-es** because *les pommes* is feminine and plural.
+
+### Summary of Agreement Patterns
+
+- **Feminine Singular COD:** Add **-e** to the past participle.
+  - *La lettre que j'ai écrite.* (The letter that I wrote.)
+
+- **Masculine Plural COD:** Add **-s** to the past participle.
+  - *Les livres que j'ai lus.* (The books that I read.)
+
+- **Feminine Plural COD:** Add **-es** to the past participle.
+  - *Les lettres que j'ai écrites.* (The letters that I wrote.)
+
+### No Agreement Example
+
+If the COD follows the verb, **no agreement** is needed.
+
+- **Example:**
+  - *J'ai vu les voitures.* (I saw the cars.)
+    - Here, *vu* stays the same because *les voitures* comes after the verb.
+
+### Special Case with "En"
+
+When the pronoun **en** is used, it **does not** require the past participle to agree, regardless of the gender or number of the noun it replaces.
+
+- **Example:**
+  - *J'ai mangé des pommes.* → *J'en ai mangé.*
+  - Even though *pommes* is feminine and plural, *mangé* does not change because **en** is used.
+
+By following these rules, you can ensure correct agreement with CODs in the passé composé, especially when dealing with feminine and plural forms.
+
 #### **1. Pronouns: "en" and "y"**
 
 **"En"** replaces phrases that start with "de" (of, some, from) or quantities.
