@@ -162,7 +162,8 @@ The **subjunctive** is used to express:
 | **Pouvoir**| que je puisse| que tu puisses| qu'il puisse| que nous puissions| que vous puissiez | qu'ils puissent |
 | **Aller**  | que j'aille  | que tu ailles| qu'il aille| que nous allions | que vous alliez | qu'ils aillent |
 | **Vouloir**| que je veuille| que tu veuilles| qu'il veuille| que nous voulions | que vous vouliez | qu'ils veuillent |
-| **Falloir**| qu'il faille |              |            |             |             |             |
+| **Falloir**|               |              | qu'il faille   |             |             |             |
+| **Pleuvoir**|               |              | qu'il pleuve   |             |             |             |
 
 ### Gérondif
 
