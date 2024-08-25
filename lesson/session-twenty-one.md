@@ -139,3 +139,58 @@ To give advice effectively, you can use a variety of structures. Here’s a more
 3. **J'ai un entretien d'embauche** :
    - *Il est important que tu prépares des réponses aux questions fréquentes.*
    - *Je te recommande de bien t'habiller pour faire bonne impression.*
+  
+## Summary of French Grammar Concepts
+
+### Présent du Subjonctif
+
+The **subjunctive** is used to express:
+- **Necessity or obligation**: *Il faut que, Il est nécessaire que*
+- **Emotions or feelings**: *Aimer que, Regretter que, Être content que*
+- **Doubt or uncertainty**: *Ne pas penser que, Ne pas croire que, Ne pas être sûr que*
+- **Desires or wishes**: *Vouloir que, Désirer que, Souhaiter que*
+- **Concessions**: *Bien que, Malgré que*
+
+#### Subjunctive Conjugations
+
+| Verb       | Je           | Tu           | Il/Elle/On | Nous        | Vous        | Ils/Elles   |
+|------------|--------------|--------------|------------|-------------|-------------|-------------|
+| **Être**   | que je sois  | que tu sois  | qu'il soit | que nous soyons | que vous soyez | qu'ils soient |
+| **Avoir**  | que j'aie    | que tu aies  | qu'il ait  | que nous ayons  | que vous ayez  | qu'ils aient  |
+| **Savoir** | que je sache | que tu saches| qu'il sache| que nous sachions| que vous sachiez | qu'ils sachent |
+| **Faire**  | que je fasse | que tu fasses| qu'il fasse| que nous fassions| que vous fassiez | qu'ils fassent |
+| **Pouvoir**| que je puisse| que tu puisses| qu'il puisse| que nous puissions| que vous puissiez | qu'ils puissent |
+| **Aller**  | que j'aille  | que tu ailles| qu'il aille| que nous allions | que vous alliez | qu'ils aillent |
+| **Vouloir**| que je veuille| que tu veuilles| qu'il veuille| que nous voulions | que vous vouliez | qu'ils veuillent |
+| **Falloir**| qu'il faille |              |            |             |             |             |
+
+### Gérondif
+
+The **gérondif** is used to express:
+- **Simultaneity**: Two actions happening at the same time.
+- **Manner**: How an action is performed.
+- **Condition**: A condition under which something happens.
+
+#### Gérondif Conjugations
+
+| Verb        | Gérondif Form         |
+|-------------|-----------------------|
+| **Être**    | en étant              |
+| **Avoir**   | en ayant              |
+| **Boire**   | en buvant             |
+
+**Regular Gérondif Formation:**
+- **Verb Stem** (from the **nous** form in present tense) + **-ant**  
+  Example: *Parler* → *Nous parlons* → *en parlant*
+
+### Donner des Conseils (Giving Advice)
+
+When giving advice in French, you can use various structures, including the subjunctive:
+
+| Concept                            | Example                                             |
+|------------------------------------|-----------------------------------------------------|
+| Conseils - Il faut que             | Il faut que tu fasses du sport.                     |
+| Conseils - Volonté                 | Je souhaite que tu réussisses.                      |
+| Conseils - Incertitude             | Je ne pense pas qu'il vienne.                       |
+
+
