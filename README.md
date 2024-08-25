@@ -103,3 +103,7 @@ Each file contains the content of the respective session, including explanations
 
 - Indirect Object Pronouns (COI) + passe composé
 
+# Session 20
+
+- COD, COI , en and y wrap
+
