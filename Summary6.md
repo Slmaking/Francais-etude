@@ -37,11 +37,21 @@ The **gérondif** is used to express:
 
 When giving advice in French, you can use various structures, including the subjunctive:
 
-| Concept                            | Example                                             |
-|------------------------------------|-----------------------------------------------------|
-| Conseils - Il faut que             | Il faut que tu fasses du sport.                     |
-| Conseils - Volonté                 | Je souhaite que tu réussisses.                      |
-| Conseils - Incertitude             | Je ne pense pas qu'il vienne.                       |
+
+
+| **Formulation**                           | **Structure**                             | **Exemples**                                  |
+|-------------------------------------------|--------------------------------------------|-----------------------------------------------|
+| **1. Il faut que / Il faudrait que**      | Il faut que + **subjonctif**               | Il faut que tu fasses plus de sport.          |
+|                                           | Il faudrait que + **subjonctif**           | Il faudrait que tu boives plus d'eau.         |
+| **2. Tu devrais / Tu pourrais**           | Tu devrais + **infinitif**                 | Tu devrais faire attention à ton alimentation.|
+|                                           | Tu pourrais + **infinitif**                | Tu pourrais essayer de dormir plus tôt.       |
+| **3. Je te conseille / recommande de**    | Je te conseille de + **infinitif**         | Je te conseille de consulter un médecin.      |
+|                                           | Je vous recommande de + **infinitif**      | Je vous recommande de lire ce livre.          |
+| **4. Si j’étais toi, je…**                | Si j’étais toi, je + **conditionnel**      | Si j'étais toi, je prendrais un jour de repos.|
+| **5. Il vaut mieux que**                  | Il vaut mieux que + **subjonctif**         | Il vaut mieux que tu partes maintenant.       |
+| **6. Il est nécessaire / important que**  | Il est nécessaire que + **subjonctif**     | Il est nécessaire que tu parles à ton patron. |
+|                                           | Il est important que + **subjonctif**      | Il est important que tu fasses des économies. |
+| **7. Tu ferais mieux de**                 | Tu ferais mieux de + **infinitif**         | Tu ferais mieux de t'excuser.                 |
 
 
 
