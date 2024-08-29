@@ -75,3 +75,18 @@ Les pronoms relatifs servent à introduire une proposition subordonnée qui appo
 - **Dont**: Complément des verbes, des adjectifs ou des noms introduits par "de" → **Dont + sujet + verbe**
 
 Ces pronoms relatifs sont essentiels pour créer des phrases complexes tout en évitant les répétitions et en liant les idées entre elles de manière fluide et cohérente.
+
+Here's a table summarizing the information on the **plus-que-parfait** and **pronoms relatifs**:
+
+| **Concept**            | **Formation/Usage**                                                                                                                                   | **Example**                                                |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| **Plus-que-parfait**   | **Avoir/Être** à l'imparfait + participe passé                                                                                                          | **J'avais pris**, **J'étais allé(e)**                       |
+|                        | Used for an action that occurred before another action in the past                                                                                     | **J'avais lu le livre que tu m'avais donné.**              |
+| **Pronom Relatif: Qui**| Used as a subject; introduces a subordinate clause describing a person, animal, or object                                                              | **La femme qui porte un chapeau rouge est ma tante.**       |
+| **Pronom Relatif: Que**| Used as a direct object (COD); introduces a subordinate clause describing a person, animal, or object                                                   | **Le film que nous avons vu hier soir était bon.**          |
+| **Pronom Relatif: Où** | Replaces a complement of place or time; indicates the place or time where an action takes place                                                        | **La maison où je suis née était grande.**                  |
+| **Pronom Relatif: Dont**| Replaces a complement introduced by **de** (verbs, adjectives, or nouns)                                                                               | **C'est un livre dont j'ai besoin.**                        |
+|                        | **Complément du Verbe**: For verbs that take "de"                                                                                                      | **Le sujet dont tu parles ne m'intéresse pas.**            |
+|                        | **Complément de l'Adjectif**: For adjectives that take "de"                                                                                           | **Il a un travail dont il est satisfait.**                 |
+|                        | **Complément du Nom**: For nouns followed by "de"                                                                                                     | **J'ai des élèves dont les parents sont riches.**           |
+
