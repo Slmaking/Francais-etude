@@ -107,3 +107,9 @@ Each file contains the content of the respective session, including explanations
 
 - COD, COI , en and y wrap
 
+# Session 21
+
+- Subjunctive
+- Conseiller (recommendation)
+- Gerandif
+
