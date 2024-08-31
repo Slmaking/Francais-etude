@@ -151,24 +151,18 @@ comparer
 ```
 
 
-quels sont les avantages et les inconvénients de l'utilisation  d'Internet 
+### Quels sont les avantages et les inconvénients de l'utilisation  d'Internet 
 
 Comme vous savez, Internet a bien évolué le monde, je pense qu'on doit le considérer comme l'invention la plus importante de notre siècle .  Comme toutes les inventions, il a des avantages et des inconvénients 
 
-à propos de ses avantages , il faut que je dise que Internet nous permet de communiquer plus facilement avec notre famille, nos amis   qui vivent / habitent loin de nous , donc Internet a bcp facilité la communication 
-
-grâce à Internet, nous avons un accès facile et rapide  à une grande quantité d'informations sur les sujets variés 
+à propos de ses avantages , il faut que je dise que Internet nous permet de communiquer plus facilement avec notre famille, nos amis   qui vivent / habitent loin de nous , donc Internet a bcp facilité la communication. grâce à Internet, nous avons un accès facile et rapide  à une grande quantité d'informations sur les sujets variés 
 
 Internet a bien facilité notre vie quotidienne par exemple en utilisant Internet, il est possible d'acheter en ligne, de payer les factures d'eau, de gaz et d'électricité en ligne,  
 on peut faire du télétravail 
-et ça/cela est utile pour l'environnement car il y a moins de pollution 
-et en plus on peut économiser  de l'argent et de l'énergie 
-
+et ça/cela est utile pour l'environnement car il y a moins de pollution  et en plus on peut économiser  de l'argent et de l'énergie 
 
 internet est amusant , il offre bcp de divertissements, c'est possible de voir des films en ligne, jouer en ligne, télécharger  des livres 
-
 en matière d'éducation, internet offre une opportunité d'apprentissage en ligne, on peut suivre des formations en ligne
-
 en ce qui concerne ses inconvénients, je dois dire que Internet peut devenir addictif et entraîner une dépendance  qui peut nuire à la santé mentale et physique. 
 il n'y a pas de sécurité , et nos informations  personnelles peuvent être volées et ça cause des dommages financiers et émotionnels
 l'utilisation excessive d'Internet  peut conduire à l'isolement social car nous avons moins d'interactions et moins de communication avec notre entourage 
