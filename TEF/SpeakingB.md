@@ -1,4 +1,4 @@
-## quels sont les avantages et les inconvénients de l'utilisation  d'Internet 
+## Quels sont les avantages et les inconvénients de l'utilisation  d'Internet 
 
 Comme 
 
@@ -95,7 +95,7 @@ dépendant
 
 causer = entraîner 
 
-nuire àآسیب رساندن
+nuire à آسیب رساندن
 
 qui 
 
@@ -155,9 +155,8 @@ comparer
 
 
 
+```
 
-
-l'utilisation excessive d'Internet  peut conduire à l'isolement social car nous avons moins d'interactions et moins de communication avec notre entourage 
 
 quels sont les avantages et les inconvénients de l'utilisation  d'Internet 
 
@@ -176,3 +175,10 @@ et en plus on peut économiser  de l'argent et de l'énergie
 internet est amusant , il offre bcp de divertissements, c'est possible de voir des films en ligne, jouer en ligne, télécharger  des livres 
 
 en matière d'éducation, internet offre une opportunité d'apprentissage en ligne, on peut suivre des formations en ligne
+
+en ce qui concerne ses inconvénients, je dois dire que Internet peut devenir addictif et entraîner une dépendance  qui peut nuire à la santé mentale et physique. 
+il n'y a pas de sécurité , et nos informations  personnelles peuvent être volées et ça cause des dommages financiers et émotionnels
+l'utilisation excessive d'Internet  peut conduire à l'isolement social car nous avons moins d'interactions et moins de communication avec notre entourage 
+
+
+```
