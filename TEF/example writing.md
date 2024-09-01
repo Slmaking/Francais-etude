@@ -8,7 +8,7 @@ Ensuite, il a voulu faire appel à un plombier, mais l'équipe du zoo était dé
 
 ## 2 
 
-2. En Alger, Algérie, Walid un enfant de 13 ans, a sauvé ses camarades d'un accident de bus.
+En Alger, Algérie, Walid un enfant de 13 ans, a sauvé ses camarades d'un accident de bus.
 Il avait plu toute la journée, ensuite, la rue était inondée. Walid et ses camardes avons pris le bus à l’école en première de Mars où la rue était glissante. Donc, le chauffeur du bus, nom Ahmad, il n’a pas pu le contrôler. En effet, le bus est tombé dans une vallée
 Ahmad a appelé le plombier qui aide des étudiants sortir mais avant d’en arrivant, ils avaient quitté le bus. En fin, Walid et ses amies étaient chanceux et l’accident seulement cause des dommages financiers 
 
