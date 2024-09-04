@@ -104,4 +104,13 @@ Here is a list of 100 useful French words that are often followed by **de** or *
 49. **Téléphoner à** (to call)
 50. **Viser à** (to aim at)
 
+```
+à propos de+ nom 
+quantité +De + nom 
+permettre à qqn de+ infinitif
+
+
+```
+
+
 This list includes both common and useful verbs that frequently require the prepositions **de** or **à**. These prepositions often change the meaning or usage of the verbs, so it's essential to learn them in context.
