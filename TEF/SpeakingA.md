@@ -1,4 +1,132 @@
-xI can see the notes you shared regarding your TEFAQ preparation. It looks like you're working on formulating sentences and expressions for oral practice. Here’s a quick summary and clarification of the key points from your notes:
+Bonjour, j'ai lu votre annonce dans votre agence de voyage, je suis intéressé car je suis libre le week-end prochain et j'aimerais voyager. j'ai quelques questions . pourriez-vous me répondre s'il vous plaît? 
+
+comme première questions, votre annonce est-elle toujours disponible ?
+
+quel est le prix de chaque destination ? 
+
+ce prix comprend-il le transport/ l'hôtel?
+
+Bonjour, j'ai lu votre annonce dans votre agence de voyage, je suis intéressé car je suis libre le week-end prochain et j'aimerais voyager. j'ai quelques questions . pourriez-vous me répondre s'il vous plaît? 
+
+comme première questions, votre annonce est-elle toujours disponible ?
+
+quel est le prix de chaque destination ? 
+
+ce prix comprend-il le transport/ l'hôtel?
+
+le passif: être +participe passé 
+
+le transport/ l'hôtel  est-il compris/ inclus dans ce prix?
+
+je suis étudiant , y a-t-il un rabais/ une réduction  pour les étudiants? 
+
+de quel pourcentage pourrai-je profiter 
+
+puis-je payer en plusieurs fois ? 
+
+quels sont les modes de paiement ?
+
+est-il possible de payer en ligne/ par carte / en espèces?
+
+faut-il payer des arrhes? 
+
+quel est le montant des arrhes ?
+
+la moitié de la somme
+
+en cas d'annulation, serai-je remboursé? 
+
+quelles sont les conditions du remboursement ?
+
+faut-il réserver à  l'avance ? 
+
+Combien de jours à l'avance devrai- je réserver 
+
+Comment puis-je réserver 
+
+en ligne 
+
+quelle est l'adresse de votre site? 
+
+www. 
+
+je l'ai noté 
+
+Combien de personnes peuvent-elles y participer ?
+
+y a-t-il une limite d'âge ?
+
+Comment va-t-on  voyager ?
+
+quel est le moyen de transport utilisé ?
+
+en avion 
+
+le vol 
+
+quel est la durée de ce vol?
+
+où va-t-on séjourner 
+
+quel est le nom de l'hôtel ?
+
+où est-il situé ?
+
+est-il au centre-ville ?
+
+le petit-déjeuner est-il inclus dans ce prix  ?
+
+le Wifi est-il gratuit 
+
+quelles sont les facilités de cet hôtel ? 
+
+y a-t-il une piscine 
+
+je suis végétarien. sert-on des plats végétariens  
+
+y a-t-il un guide 
+
+quelle langue parle-t-il 
+
+quels sont les monuments/sites touristiques à visiter ?
+
+si on part la semaine prochaine , quel temps fera-t-il / quel temps va-t-il faire 
+
+quel type de vêtements doit-on apporter 
+
+quels sont les documents nécessaires pour faire la réservation ?
+
+comment pourrai-je vous les envoyer ?
+
+par courriel 
+
+quelle est votre adresse courriel?
+
+par fax
+
+quel est votre numéro de fax ? 
+
+quel est le jour du départ ?
+
+on va partir quand ?
+
+quel est le lieu du départ ? 
+
+j'ai pas d'autres questions / merci de m'avoir répondu . 
+
+
+je vais y réfléchir plus 
+
+je vais en parler avec ma blonde 
+
+je vais consulter votre site 
+
+je vais vous envoyer mes documents 
+
+
+
+
+
 
 1. **"Ça vaut la peine d'essayer"** - It's worth trying.  
    This expression is useful for giving encouragement or suggesting that someone give something a try.
@@ -26,38 +154,3 @@ xI can see the notes you shared regarding your TEFAQ preparation. It looks like 
    - "C'est magnifique, l'occasion de faire de nouvelles connaissances" (It's wonderful, the chance to meet new people).
    - "C'est quelqu'un à qui je dis" (It’s someone to whom I say).
 
-
-Merci pour les notes supplémentaires que tu as partagées. Je vois que tu te prépares activement pour la section A du TEF, notamment pour poser des questions sur des cours et des informations pratiques. Voici quelques suggestions pour améliorer certaines expressions et les rendre plus fluides dans le contexte d’un examen oral :
-
-1. **Pour commencer :**
-   - "Tout d'abord, j'aurais besoin d'informations complémentaires, notamment sur l'adresse exacte et les horaires des cours."
-
-2. **Demande de localisation :**
-   - "Est-ce que cette adresse est proche ou loin du centre-ville ?"
-   - "Je ne suis pas sûr de l'emplacement exact, pourriez-vous me dire où cela se trouve précisément ?"
-
-3. **Demander des détails sur le transport :**
-   - "Quel moyen de transport me conseilleriez-vous pour m'y rendre ?"
-
-4. **Après avoir reçu des informations :**
-   - "Ah, ça tombe bien, je devrais pouvoir la trouver facilement."
-
-5. **Passer à la question suivante :**
-   - "Ensuite, allez-vous proposer des cours en continu ou par module ?"
-
-6. **Réagir positivement :**
-   - "Cela me semble fantastique !"
-
-7. **Questions sur la personnalisation :**
-   - "Y a-t-il une possibilité de formuler des requêtes pour des plats spécifiques ?"
-
-8. **Réduction pour les groupes :**
-   - "Aussi, j'aimerais savoir, si nous venons en groupe (disons 5-6 personnes), pourrions-nous bénéficier d'une réduction sur le tarif ?"
-
-9. **Questions pratiques sur la visite :**
-   - "D'accord, pouvez-vous me dire quelles sont les dates disponibles, s'il vous plaît ?"
-   - "Est-ce que nous serons autorisés à prendre des photos pendant la visite ?"
-
-Ces formulations sont un peu plus structurées pour que tu puisses paraître fluide et naturel lors de l'examen TEF. Si tu veux t'entraîner davantage ou avoir plus de suggestions, n'hésite pas à me le dire !
-
-"J’ai vu votre annonce dans un magazine et elle a attiré mon intérêt. Tout d’abord, j’aurais besoin d’informations complémentaires concernant l’adresse exacte et les horaires des cours."
