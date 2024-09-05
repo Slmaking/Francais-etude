@@ -1,4 +1,4 @@
-Bonjour, j'ai lu votre annonce dans votre agence de voyage, je suis intéressé car je suis libre le week-end prochain et j'aimerais voyager. j'ai quelques questions . pourriez-vous me répondre s'il vous plaît? 
+- Bonjour, j'ai lu votre annonce dans votre agence de voyage, je suis intéressé car je suis libre le week-end prochain et j'aimerais voyager. j'ai quelques questions . pourriez-vous me répondre s'il vous plaît? 
 
 comme première questions, votre annonce est-elle toujours disponible ?
 
@@ -6,9 +6,6 @@ quel est le prix de chaque destination ?
 
 ce prix comprend-il le transport/ l'hôtel?
 
-Bonjour, j'ai lu votre annonce dans votre agence de voyage, je suis intéressé car je suis libre le week-end prochain et j'aimerais voyager. j'ai quelques questions . pourriez-vous me répondre s'il vous plaît? 
-
-comme première questions, votre annonce est-elle toujours disponible ?
 
 quel est le prix de chaque destination ? 
 
