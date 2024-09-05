@@ -112,13 +112,13 @@ quel est le lieu du départ ?
 j'ai pas d'autres questions / merci de m'avoir répondu . 
 
 
-je vais y réfléchir plus 
+- je vais y réfléchir plus 
 
-je vais en parler avec ma blonde 
+- je vais en parler avec ma blonde 
 
-je vais consulter votre site 
+- je vais consulter votre site 
 
-je vais vous envoyer mes documents 
+- je vais vous envoyer mes documents 
 
 
 
