@@ -29,6 +29,7 @@ J'aurais quelques questions à vous poser à ce sujet, pourriez-vous me répondr
 21. Quand puis-je venir le visiter ?
 
 Je vous remercie pour votre réponse rapide.
+j'ai pas d'autres questions/ merci de m'avoir répondu,
 
 ---
 
@@ -57,6 +58,7 @@ J'aimerais avoir des informations supplémentaires sur le poste que vous propose
 15. Quelle est la durée du contrat et est-il possible de le renouveler ?
 
 Je vous remercie pour votre réponse et vous enverrai mes documents dès que possible.
+j'ai pas d'autres questions/ merci de m'avoir répondu,
 
 
 ---
@@ -82,5 +84,6 @@ J'ai vu votre annonce sur internet et je suis très intéressé(e) car c'est mon
 13. Vous avez mentionné l'adresse, mais je ne connais pas ce quartier. Y a-t-il une station de métro ou un arrêt de bus à proximité ?
 14. Le plateau est-il accessible aux personnes en fauteuil roulant ?
 
+j'ai pas d'autres questions/ merci de m'avoir répondu,
 Je vous remercie pour vos réponses et je vais m'inscrire en ligne dès que possible.
 
