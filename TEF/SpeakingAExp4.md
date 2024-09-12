@@ -17,7 +17,9 @@ y a-t-il
 
 est-ce qu'il ya 
 
+---- 
 
+**Sujet 1 :** 
 
 j'aimerais avoir une nouvelle expérience 
 
@@ -71,6 +73,10 @@ jusqu'à quelle heure  le restaurant est-il ouvert
 
 merci de m'avoir répondu très  rapidement 
 
+-----
+**Sujet 2 :** 
+
+
 j'aimerais apprendre à danser flamenco
 
 y a-t-il encore de la place ?
@@ -105,6 +111,9 @@ j'ai d'autres question, merci de m'avoir répondu très  rapidement, je peux m'i
 
 quels sont les documents nécessaires ?
 
+
+-----
+**Sujet 3 :** 
 
 
 j'au vu annonce sur internet , je suis intéressé car j'aime déguster les fruits frais  
