@@ -1,4 +1,39 @@
-Sujet: le travail occupe une trop grande place dans notre vie
+
+
+**Sujet :** « Les jeux vidéo ont un effet néfaste sur les jeunes ».
+
+**Clément Huet**  
+1 rue des oliviers  
+35000 - Rennes
+
+**Le Figaro**  
+14, Boulevard Haussmann  
+75009 Paris
+
+À Rennes, le 5 mars 2020.
+
+Objet : Réaction à votre article « Les jeux vidéo ont un effet néfaste sur les jeunes ».
+
+Madame la rédactrice en chef,
+
+Je vous écris au sujet de l’impact prétendument négatif des jeux vidéo sur les jeunes. Avec tout le respect que je vous dois, je suis en complet désaccord avec vous.
+
+Premièrement, les jeux vidéo sont un très bon moyen de s’ouvrir à l’art et à la culture. De nos jours, des dizaines d’artistes travaillent ensemble à l’élaboration d’un jeu vidéo. Celui-ci est donc très riche et éveille les sens.
+
+Deuxièmement, je souhaiterais vous rappeler que cette forme d’art est souvent l’un des premiers accès au monde moderne pour nos enfants. Supprimer cette opportunité de se familiariser à la technologie en 2020 semble totalement contre-productif. Il a d’ailleurs été prouvé que les jeunes chirurgiens qui ont joué aux jeux vidéo dans leur enfance sont plus à l’aise sur les machines de haute technologie.
+
+Finalement, ce que la France reconnaît aujourd’hui officiellement comme le « dixième art » est aussi un très bon moyen de socialiser pour les personnes les plus timides. Loin du stéréotype solitaire, les joueurs sont aujourd’hui en contact avec des milliers de personnes comme eux. « WoW » ou « Minecraft » ne sont que des exemples parmi tant d’autres.
+
+Pour ces trois raisons principales, je pense que les jeux vidéo sont un bienfait pour toute la société.
+
+Je vous prie de recevoir, Madame, mes salutations distinguées.
+
+Clément Huet
+
+
+----
+**Sujet :** le travail occupe une trop grande place dans notre vie
+
 L’ancienne génération est mieux éduquée que la nouvelle
 Les sites de rencontres ne font qu’éloigner les gens
 Génération selfie: les jeunes d'aujourd'hui ne s’intéressent qu’à leurs images
