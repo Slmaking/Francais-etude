@@ -40,3 +40,5 @@ apprendre un instrument de musique devrait être obligatoire
 l'écologie est un luxe
 l'art est inutile
 la criminalité, il faut installer les caméras de surveillance partout même à domicile
+
+![image](https://github.com/user-attachments/assets/5f25b8a4-d889-4080-bbb6-63524580572e)
