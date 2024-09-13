@@ -1,5 +1,16 @@
 # Examples ecrive
 
+"En conclusion, cet événement montre que la chance et la prudence peuvent parfois éviter des tragédies."
+
+"À la suite de cet incident..."
+"Grâce à la rapidité de [someone's] actions..."
+"Bien que [description], [subject] a réussi à..."
+"Cet événement a mis en lumière [issue]."
+"Pour résoudre la situation, [subject] a décidé de..."
+
+![image](https://github.com/user-attachments/assets/136634d1-bcc9-4537-9b50-bac401e60e09)
+
+
 ## 1
 
 Hier, à la tombée de la nuit, un gardien de zoo a remarqué que le lion n’était plus dans sa cage. Peu après, il a entendu de grands cris... C'était la catastrophe : un visiteur nommé Éric avait été blessé lorsque le lion l'a attaqué. Le gardien a immédiatement appelé l’hôpital pour qu’une ambulance soit envoyée sur place.
