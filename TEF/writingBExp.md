@@ -78,5 +78,6 @@ Clément Huet
 41. L'art est inutile.
 42. Pour lutter contre la criminalité, il faut installer des caméras de surveillance partout, même à domicile.
 
+<img width="1448" alt="image" src="https://github.com/user-attachments/assets/b4d4e54e-4ae3-4ff7-beaf-dc93561e8900">
 
 ![image](https://github.com/user-attachments/assets/5f25b8a4-d889-4080-bbb6-63524580572e)
