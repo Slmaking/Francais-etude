@@ -92,3 +92,82 @@ Tu aimerais y participer ?
 - j'ai pas d'outils
 
 t'inquiète pas .   la mairie fournira tous les outils dont tu as besoin.  gratuitement . mais tu devras les rendre après le projet . en plus j'en ai quelques-uns et je pourrais t'en prêter si tu veux 
+
+
+je voudrais voyager 
+
+
+réserver 
+
+un aller simple
+
+un aller retour 
+
+louer
+
+ceinture de sécurité 
+
+les sièges 
+
+être équipé de 
+
+on a accès à Internet?
+
+en cas d'accident 
+
+il y  a .une assurance 
+
+
+
+louer sur place 
+
+cette école fournit l'équipement 
+
+j'ai pas de temps 
+
+- c'est difficile 
+
+
+
+A
+
+1. Quels types de cuir utilisez-vous pour vos produits ?
+2. Comment entretenir et nettoyer vos articles en cuir ?
+3. Avez-vous des garanties sur vos produits ?
+4. Proposez-vous des services de réparation ou de restauration ?
+5. Quels sont les articles les plus populaires en ce moment ?
+6. Y a-t-il des promotions ou des soldes à venir ?
+7. Avez-vous des options de personnalisation pour les sacs ou accessoires ?
+8. Quels sont les délais de livraison pour les commandes en ligne ?
+9. Est-ce que vous avez une politique de retour ou d'échange ?
+10. Quels conseils donneriez-vous pour choisir un sac adapté à mes besoins ? 11. Quels sont vos horaires d'ouverture ? 12. En cas d'insatisfaction,  serai-je remboursée ? 13 . Où est situé votre boutique ? 
+
+
+
+
+Azam, 8:54 PM
+tu râlais 
+
+râler 
+
+être coincé 
+
+dans les embouteillages 
+
+des pistes cyclables 
+
+
+Azam, 9:05 PM
+
+
+
+Azam, 9:11 PM
+
+
+b
+
+- il n'y a pas de sécurité 
+
+- on va s'ennuyer 
+
+emprunts
