@@ -44,37 +44,22 @@ J'en ai acheté une il y a 6 mois, et ça marche toujours,  c'est une bonne marq
 au contraire , tu pourrais la trouver facilement dans les grandes surfaces ,  dans les pharmacies…. il y a une grande variété , de couleurs, de goûts, tu pourrais choisir ce que tu veux 
 
 
-
-
-Azam, 9:02 PM
 1. Quel est l'âge requis pour louer une voiture ? 
-
 2.  Quels sont les documents nécessaires ? 
-
-3. Quel est le prix de location par heure ? 
-  -  faut-il payer en avance ? 
-
--  quels sont les modalités de paiement ? 
-
-- je suis étudiant,  y a-t-il un rabais ? 
-
-- de Quel pourcentage,  pourrai-je profiter ?
-4.  Quelle est la durée minimale de location ? 
-
-5. En cas d'accident,  Y a-t-il une assurance ? l'assurance est-elle comprise dans le prix? 
-
-6. Y a-t-il un contrat à signer ? 
-
-7. Dois-je nettoyer le véhicule avant de vous le rendre ? 
-
-8. Les frais de l'essence sont  à votre charge ? 
-
-
-9. Que faire si la voiture tombe en panne ?
-
-10. Puis-je modifier la durée de mon contrat  ? 
-
-11. Est-il possible de choisir la couleur de mon automobile ? 12.  quelle marque de voitures avez-vous ? 14. avez -vous un site? / est-il possible de louer une voiture en ligne? / quelle est l'adresse de votre site? 
+3. Quel est le prix de location par heure ?
+4. faut-il payer en avance ?
+5. quels sont les modalités de paiement ?
+6. je suis étudiant,  y a-t-il un rabais ?
+7. de Quel pourcentage,  pourrai-je profiter ?
+8. Quelle est la durée minimale de location ?
+9. En cas d'accident,  Y a-t-il une assurance ? l'assurance est-elle comprise dans le prix?
+10. Y a-t-il un contrat à signer ?
+11. Dois-je nettoyer le véhicule avant de vous le rendre ?
+12. Les frais de l'essence sont  à votre charge ?
+13. Que faire si la voiture tombe en panne ?
+14. Puis-je modifier la durée de mon contrat  ?
+15. Est-il possible de choisir la couleur de mon automobile ?
+16. quelle marque de voitures avez-vous ? 14. avez -vous un site? / est-il possible de louer une voiture en ligne? / quelle est l'adresse de votre site? 
 
 
 
