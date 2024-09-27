@@ -157,11 +157,6 @@ dans les embouteillages
 des pistes cyclables 
 
 
-Azam, 9:05 PM
-
-
-
-Azam, 9:11 PM
 
 
 b
