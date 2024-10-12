@@ -28,3 +28,5 @@ The **TEF Compréhension Orale (Oral Comprehension)** section tests your ability
 - **Active Listening**: Train yourself to pick up on **keywords** (e.g., names, numbers, places), as well as **intonation** and **emotional cues** that indicate the speaker’s attitude.
 - **Practice with Real-Life Audio**: Listen to a variety of French media, like podcasts, radio shows, or YouTube videos, focusing on different accents and informal vs. formal language.
 
+- inegalitee
+- 
