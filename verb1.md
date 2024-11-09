@@ -1,116 +1,100 @@
-Here is a list of 100 useful French words that are often followed by **de** or **à**:
+Here’s a table with examples for each verb, showing how the prepositions **de** or **à** are used in context:
 
-### Verbs with **de**:
-1. **Accepter de** (to accept to)
-2. **Accuser de** (to accuse of)
-3. **Arrêter de** (to stop)
-4. **Avoir besoin de** (to need)
-5. **Avoir envie de** (to feel like)
-6. **Avoir l'air de** (to look like)
-7. **Changer de** (to change)
-8. **Choisir de** (to choose to)
-9. **Commander de** (to order to)
-10. **Conseiller de** (to advise to)
-11. **Convaincre de** (to convince to)
-12. **Décider de** (to decide to)
-13. **Défendre de** (to forbid to)
-14. **Demander de** (to ask to)
-15. **Dépendre de** (to depend on)
-16. **Dire de** (to tell to)
-17. **Douter de** (to doubt)
-18. **Empêcher de** (to prevent from)
-19. **Essayer de** (to try to)
-20. **Éviter de** (to avoid)
-21. **Finir de** (to finish)
-22. **Interdire de** (to forbid)
-23. **Jouir de** (to enjoy)
-24. **Manquer de** (to lack)
-25. **Menacer de** (to threaten to)
-26. **Mourir de** (to die of)
-27. **Offrir de** (to offer to)
-28. **Oublier de** (to forget to)
-29. **Parler de** (to talk about)
-30. **Permettre de** (to allow to)
-31. **Persuader de** (to persuade to)
-32. **Profiter de** (to take advantage of)
-33. **Promettre de** (to promise to)
-34. **Refuser de** (to refuse to)
-35. **Rêver de** (to dream of)
-36. **Rire de** (to laugh at)
-37. **Risquer de** (to risk)
-38. **Se contenter de** (to be content with)
-39. **Se dépêcher de** (to hurry to)
-40. **Se moquer de** (to make fun of)
-41. **Se plaindre de** (to complain about)
-42. **Se servir de** (to use)
-43. **S'efforcer de** (to strive to)
-44. **S'occuper de** (to take care of)
-45. **Se souvenir de** (to remember)
-46. **Tâcher de** (to try to)
-47. **Tenir de** (to take after)
-48. **Tomber de** (to fall from)
-49. **Venir de** (to come from)
-50. **Vivre de** (to live on)
+| **Verb with "de"** | **Meaning**                 | **Example** |
+|--------------------|-----------------------------|-------------|
+| **Accepter de**    | to accept to                | Il a accepté de venir avec nous. |
+| **Accuser de**     | to accuse of                | Elle l'a accusé de voler l'argent. |
+| **Arrêter de**     | to stop                     | Nous avons arrêté de fumer. |
+| **Avoir besoin de**| to need                     | J'ai besoin de ton aide. |
+| **Avoir envie de** | to feel like                | Ils ont envie de sortir ce soir. |
+| **Avoir l'air de** | to look like                | Elle a l'air d'être fatiguée. |
+| **Changer de**     | to change                   | Il a changé de travail. |
+| **Choisir de**     | to choose to                | Elle a choisi de partir tôt. |
+| **Commander de**   | to order to                 | Il a commandé de fermer la porte. |
+| **Conseiller de**  | to advise to                | Je te conseille de faire attention. |
+| **Convaincre de**  | to convince to              | Il m'a convaincu de rester. |
+| **Décider de**     | to decide to                | Nous avons décidé de déménager. |
+| **Défendre de**    | to forbid to                | Le médecin lui défend de fumer. |
+| **Demander de**    | to ask to                   | Il a demandé de l'aider. |
+| **Dépendre de**    | to depend on                | Cela dépend de la météo. |
+| **Dire de**        | to tell to                  | Elle m'a dit de venir. |
+| **Douter de**      | to doubt                    | Il doute de sa sincérité. |
+| **Empêcher de**    | to prevent from             | Il m'a empêché de partir. |
+| **Essayer de**     | to try to                   | Elle essaie de comprendre. |
+| **Éviter de**      | to avoid                    | Il évite de parler de ce sujet. |
+| **Finir de**       | to finish                   | Elle a fini de lire le livre. |
+| **Interdire de**   | to forbid                   | Il est interdit de fumer ici. |
+| **Jouir de**       | to enjoy                    | Ils jouissent de la liberté. |
+| **Manquer de**     | to lack                     | Elle manque de patience. |
+| **Menacer de**     | to threaten to              | Il a menacé de partir. |
+| **Mourir de**      | to die of                   | Il est mort de faim. |
+| **Offrir de**      | to offer to                 | Elle a offert de m'aider. |
+| **Oublier de**     | to forget to                | J'ai oublié de le faire. |
+| **Parler de**      | to talk about               | Ils parlent de leur voyage. |
+| **Permettre de**   | to allow to                 | Il permet de sortir le soir. |
+| **Persuader de**   | to persuade to              | Elle m'a persuadé de rester. |
+| **Profiter de**    | to take advantage of        | Il profite de ses vacances. |
+| **Promettre de**   | to promise to               | Elle a promis de revenir. |
+| **Refuser de**     | to refuse to                | Il a refusé de l'aider. |
+| **Rêver de**       | to dream of                 | Elle rêve de voyager. |
+| **Rire de**        | to laugh at                 | Ils rient de sa blague. |
+| **Risquer de**     | to risk                     | Il risque de se blesser. |
+| **Se contenter de**| to be content with          | Elle se contente de peu. |
+| **Se dépêcher de** | to hurry to                 | Il se dépêche de finir. |
+| **Se moquer de**   | to make fun of              | Ils se moquent de lui. |
+| **Se plaindre de** | to complain about           | Elle se plaint de son travail. |
+| **Se servir de**   | to use                      | Il se sert de cet outil. |
+| **S'efforcer de**  | to strive to                | Il s'efforce de réussir. |
+| **S'occuper de**   | to take care of             | Elle s'occupe de ses enfants. |
+| **Se souvenir de** | to remember                 | Je me souviens de cette chanson. |
+| **Tâcher de**      | to try to                   | Elle tâche de comprendre. |
+| **Tenir de**       | to take after               | Il tient de sa mère. |
+| **Tomber de**      | to fall from                | Elle est tombée de l'échelle. |
+| **Venir de**       | to come from                | Ils viennent de France. |
+| **Vivre de**       | to live on                  | Il vit de ses économies. |
 
-### Verbs with **à**:
-1. **Aider à** (to help to)
-2. **Apprendre à** (to learn to)
-3. **Arriver à** (to manage to)
-4. **Assister à** (to attend)
-5. **Chercher à** (to try to)
-6. **Commencer à** (to begin to)
-7. **Condamner à** (to condemn to)
-8. **Contribuer à** (to contribute to)
-9. **Consister à** (to consist of)
-10. **Continuer à** (to continue to)
-11. **Croire à** (to believe in)
-12. **Décider à** (to decide to)
-13. **Encourager à** (to encourage to)
-14. **Enseigner à** (to teach to)
-15. **Être habitué à** (to be used to)
-16. **Faire attention à** (to pay attention to)
-17. **Forcer à** (to force to)
-18. **Hésiter à** (to hesitate to)
-19. **Inciter à** (to incite to)
-20. **Inviter à** (to invite to)
-21. **Jouer à** (to play)
-22. **Manquer à** (to miss)
-23. **Obéir à** (to obey)
-24. **Obliger à** (to oblige to)
-25. **Parvenir à** (to succeed in)
-26. **Passer du temps à** (to spend time)
-27. **Penser à** (to think of)
-28. **Perdre du temps à** (to waste time)
-29. **Prendre part à** (to take part in)
-30. **Renoncer à** (to give up)
-31. **Répondre à** (to answer)
-32. **Réussir à** (to succeed in)
-33. **Servir à** (to be used for)
-34. **Songer à** (to think about)
-35. **S'intéresser à** (to be interested in)
-36. **S'attendre à** (to expect to)
-37. **S'habituer à** (to get used to)
-38. **S'opposer à** (to oppose)
-39. **Se consacrer à** (to devote oneself to)
-40. **Se décider à** (to make up one's mind to)
-41. **Se fier à** (to trust)
-42. **Se joindre à** (to join)
-43. **Se mettre à** (to start to)
-44. **S'engager à** (to commit to)
-45. **S'intéresser à** (to be interested in)
-46. **S'opposer à** (to be opposed to)
-47. **Se préparer à** (to prepare for)
-48. **Tenir à** (to insist on)
-49. **Téléphoner à** (to call)
-50. **Viser à** (to aim at)
-
-```
-à propos de+ nom 
-quantité +De + nom 
-permettre à qqn de+ infinitif
-
-
-```
-
-
-This list includes both common and useful verbs that frequently require the prepositions **de** or **à**. These prepositions often change the meaning or usage of the verbs, so it's essential to learn them in context.
+| **Verb with "à"** | **Meaning**                 | **Example** |
+|--------------------|-----------------------------|-------------|
+| **Aider à**        | to help to                  | Elle m'aide à faire mes devoirs. |
+| **Apprendre à**    | to learn to                 | J'apprends à conduire. |
+| **Arriver à**      | to manage to                | Il arrive à finir à l'heure. |
+| **Assister à**     | to attend                   | Nous assistons à la réunion. |
+| **Chercher à**     | to try to                   | Il cherche à comprendre. |
+| **Commencer à**    | to begin to                 | Elle commence à lire. |
+| **Condamner à**    | to condemn to               | Il est condamné à vivre seul. |
+| **Contribuer à**   | to contribute to            | Elle contribue à l'organisation. |
+| **Consister à**    | to consist of               | Son travail consiste à écrire. |
+| **Continuer à**    | to continue to              | Elle continue à parler. |
+| **Croire à**       | to believe in               | Il croit aux miracles. |
+| **Décider à**      | to decide to                | Elle se décide à partir. |
+| **Encourager à**   | to encourage to             | Il m'encourage à poursuivre. |
+| **Enseigner à**    | to teach to                 | Elle enseigne à lire. |
+| **Être habitué à** | to be used to               | Je suis habitué à ce bruit. |
+| **Faire attention à**| to pay attention to       | Faites attention aux détails. |
+| **Forcer à**       | to force to                 | Il l'a forcée à parler. |
+| **Hésiter à**      | to hesitate to              | Elle hésite à répondre. |
+| **Inciter à**      | to incite to                | Ils incitent les jeunes à voter. |
+| **Inviter à**      | to invite to                | Elle l'a invité à dîner. |
+| **Jouer à**        | to play                     | Ils jouent au football. |
+| **Manquer à**      | to miss                     | Sa famille lui manque. |
+| **Obéir à**        | to obey                     | Il obéit à ses parents. |
+| **Obliger à**      | to oblige to                | Elle l'a obligé à rester. |
+| **Parvenir à**     | to succeed in               | Il parvient à résoudre le problème. |
+| **Passer du temps à** | to spend time            | Elle passe du temps à lire. |
+| **Penser à**       | to think of                 | Il pense à ses amis. |
+| **Perdre du temps à**| to waste time             | Elle perd du temps à se plaindre. |
+| **Prendre part à** | to take part in             | Ils prennent part à l'événement. |
+| **Renoncer à**     | to give up                  | Il a renoncé à fumer. |
+| **Répondre à**     | to answer                   | Elle répond à sa question. |
+| **Réussir à**      | to succeed in               | Il réussit à monter l'escalier. |
+| **Servir à**       | to be used for              | Cela sert à couper le papier. |
+| **Songer à**       | to think about              | Elle songe à déménager. |
+| **S'intéresser à** | to be interested in         | Il s'intéresse à l'art. |
+| **S'attendre à**   | to expect to                | Elle s'attend à une réponse. |
+| **S'habituer à**   | to get used to              | Ils s'habituent à la ville. |
+| **S'opposer à**    | to oppose                   | Il s'oppose à la décision. |
+| **Se consacrer à** | to devote oneself to        | Elle se consacre à sa carrière. |
+| **Se décider à**   | to make up one's mind to    | Il se décide à partir. |
+| **Se fier à**      | to trust                    | Elle se fie à ses amis. |
+| **Se joindre à**   | to join                     | Ils se joignent à nous. |
+| **
